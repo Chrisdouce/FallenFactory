@@ -1,0 +1,62 @@
+Licensing
+—------------------------------------------—------------------------------------------—----------------------------------
+Licensing for Models & Textures:
+Ghosts:
+https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926 
+By SR Studios Kerala | Standard Unity Asset Store EULA from https://unity.com/legal/as-terms 
+
+Metal textures:
+https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12949
+By Nobiax / Yughues | Standard Unity Asset Store EULA from https://unity.com/legal/as-terms 
+
+Skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236
+| Standard Unity Asset Store EULA from https://unity.com/legal/as-terms 
+
+Grass textures:
+https://assetstore.unity.com/packages/2d/textures-materials/2d-ground-tiles-rule-tiles-v1-224173
+| Standard Unity Asset Store EULA from https://unity.com/legal/as-terms 
+
+Plank textures:
+https://freepbr.com/product/old-abandoned-building-wood-plank-flooring-pbr-material-4/
+
+Trees:
+https://assetstore.unity.com/packages/3d/environments/bearsstudios-low-poly-pine-trees-215102
+| Standard Unity Asset Store EULA from https://unity.com/legal/as-terms 
+
+Licensing for sounds:
+
+Enemy hit Sound:
+https://opengameart.org/content/fire-whip-hit-yo-frankie
+By Blender Foundation | Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) from https://creativecommons.org/licenses/by-sa/3.0/ 
+
+Death sound:
+https://opengameart.org/content/8-bit-sound-effects-library
+By Mobeyee Sounds at mobeyee.com | Attribution-ShareAlike 3.0 Unported (CC BY 3.0) from https://creativecommons.org/licenses/by/3.0/
+
+Bullets hitting and firing:
+https://opengameart.org/content/sci-fi-laser-fire-sfx 
+By K.L.Jonasson, Winnipeg, Canada. Triki Minut Interactive www.trikiminut.com | Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) from https://creativecommons.org/licenses/by-sa/3.0/ 
+
+
+Licensing for music: (Unused)
+
+Enemy rooms song by Fato Shadow
+https://opengameart.org/content/stardust-protector-soundtrack-electronic
+ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) from https://creativecommons.org/licenses/by-sa/3.0/ 
+
+Menu by Eric Matyas:
+https://opengameart.org/content/mech-game-menu
+"Mech Game Menu" by Eric Matyas Soundimage.org | Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) from https://creativecommons.org/licenses/by-sa/3.0/ 
+
+Jump rooms song by The_Mountain: 
+https://pixabay.com/music/synthwave-synthwave-outrun-139501/ 
+ “ Our license empowers creators and protects our community. We want to keep it as simple as possible. Here is an overview of what Pixabay content can and can't be used for.
+	What is allowed?
+	✓        All content (e.g. images, videos, music) on Pixabay can be used for free for commercial and noncommercial use across print and digital, except in the cases mentioned in "What is not allowed".
+	✓        Attribution is not required. Giving credit to the artist or Pixabay is not necessary but is always appreciated by our community.
+	✓        You can make modifications to content from Pixabay.																		”
+from https://pixabay.com/service/license/ 
+
+
+-------------------------------------------------------------------------------------------------------------------
